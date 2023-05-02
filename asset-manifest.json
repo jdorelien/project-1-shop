@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/static/js/main.675ac46b.js",
+    "static/js/90.27e9e75f.js": "/static/js/90.27e9e75f.js",
+    "static/media/Montserrat-Variable.ttf": "/static/media/Montserrat-Variable.3068cdb43142f5625baf.ttf",
+    "static/media/look1.png": "/static/media/look1.2729e3b12d92539e12fe.png",
+    "static/media/look2.jpg": "/static/media/look2.d1353c867b701a37df7d.jpg",
+    "static/media/PlusJakartaSans-Variable.ttf": "/static/media/PlusJakartaSans-Variable.d8748dde561d45213817.ttf",
+    "static/media/Melodrama-Variable.ttf": "/static/media/Melodrama-Variable.94cb5d31e2ef87b79578.ttf",
+    "static/media/GeneralSans-Variable.ttf": "/static/media/GeneralSans-Variable.d7facbbe2ed9ae4aae49.ttf",
+    "static/media/look4.jpg": "/static/media/look4.444bf42e1d196c9cc69b.jpg",
+    "static/media/look3.jpg": "/static/media/look3.13636d52e72f2ef0c4d1.jpg",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "static/media/rocket.png": "/static/media/rocket.d2f3bf41d5e4515c39a9.png",
+    "static/media/bell.png": "/static/media/bell.cf04af27d6a651c4b904.png",
+    "favicon-32.png": "/favicon-32.png",
+    "static/media/star.png": "/static/media/star.69c7138684828d68fe5a.png",
+    "static/media/heart.png": "/static/media/heart.23b5c2c0eb77d50ff1b4.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.675ac46b.js.map": "/static/js/main.675ac46b.js.map",
+    "90.27e9e75f.js.map": "/static/js/90.27e9e75f.js.map"
+  },
+  "entrypoints": [
+    "static/js/90.27e9e75f.js",
+    "static/js/main.675ac46b.js"
+  ]
+}
